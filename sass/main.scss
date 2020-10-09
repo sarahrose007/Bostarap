@@ -1,6 +1,20 @@
-body {
-background-color: aqua;
-}
+
+// Ceci est un début de code, vous pouvez vous en inspirez pour commencer ou bien repartir à zéro!
+
+// Import des variables et fonctions nécessaires
+
+@import 'components/variables';
+@import 'components/functions';
+@import'components/hearder';
+@import'components/footer';
+
+
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css');
+
+ body{
+ background-color: color(bg-main);
+ }
 .mh-100{
   height: 100px;
    background-color: rgba(255,0,0,0.1);
