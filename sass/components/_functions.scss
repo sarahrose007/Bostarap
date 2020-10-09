@@ -8,26 +8,26 @@
 @function font($variable){
   @return map-get($font-familly, $variable)
 };
-@function Auteurs($variable){
-  @return map-get($Auteurs, $variable)
-};
-@function Auteurs-deco($variable){
-  @return map-get($Auteurs-deco, $variable)
-};
+// @function Auteurs($variable){
+//   @return map-get($Auteurs, $variable)
+// };
+// @function Auteurs-deco($variable){
+//   @return map-get($Auteurs-deco, $variable)
+// };
 
-@function Category($variable){
-  @return map-get($Category, $variable)
-};
+// @function Category($variable){
+//   @return map-get($Category, $variable)
+// };
 
-@function Button($variable){
-  @return map-get($Button, $variable)
-};
-@function Auteurs-img($variable){
-  @return map-get($Auteurs-img, $variable)
-};
-@function Post-img($variable){
-  @return map-get($Post-img, $variable)
-};
-@function circle($variable){
-  @return map-get($circle, $variable)
-};
+// @function Button($variable){
+//   @return map-get($Button, $variable)
+// };
+// @function Auteurs-img($variable){
+//   @return map-get($Auteurs-img, $variable)
+// };
+// @function Post-img($variable){
+//   @return map-get($Post-img, $variable)
+// };
+// @function circle($variable){
+//   @return map-get($circle, $variable)
+// };
